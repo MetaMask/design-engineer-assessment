@@ -21,7 +21,7 @@ This project includes [Tailwind CSS v4](https://tailwindcss.com). You're welcome
 
 The current application works as a simple searchable address book.
 
-Your task is to improve the search and filtering experience so that it feels polished, intentional, accessible, and pleasant to use.
+Your task is to improve the search and filtering experience so that it feels polished, accessible, and delightful — with thoughtful micro-interactions that bring the experience to life
 
 We are looking for quality of judgment, not quantity of changes. A focused, well-executed improvement is better than many unfinished ideas.
 
@@ -74,7 +74,7 @@ Please submit:
 2. A short write-up in `NOTES.md` covering:
    - what you focused on and why
    - what you changed
-   - accessibility considerations
+   - performance & accessibility considerations
    - any tradeoffs you made
    - what you would improve with more time
 
