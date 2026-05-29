@@ -82,7 +82,7 @@ Please submit:
 
 ## Submitting Your Work
 
-Share a link to your GitHub repository when you're done. Make sure it's public, or add the interviewer as a collaborator if you'd prefer it private.
+When you're done, push your changes to a branch and open a pull request against `main`.
 
 ---
 
