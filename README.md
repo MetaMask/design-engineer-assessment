@@ -82,7 +82,9 @@ Please submit:
 
 ## Submitting Your Work
 
-When you're done, push your changes to a branch and open a pull request against `main`.
+Use GitHub's **Use this template** button to create a new repository in your own GitHub account.
+
+When you're done, share a link to your completed repository. Make sure it's public, or add the interviewer as a collaborator if you'd prefer to keep it private. Please do not open a pull request against this template repository.
 
 ---
 
