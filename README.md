@@ -84,7 +84,7 @@ Please submit:
 
 Use GitHub's **Use this template** button to create a new repository in your own GitHub account.
 
-When you're done, share a link to your completed repository. Make sure it's public, or add the interviewer as a collaborator if you'd prefer to keep it private. Please do not open a pull request against this template repository.
+When you're done, share a link to your completed repository and add `georgewrmarshall`, `n3ps`, `AndyMBridges` as collaborators. Please do not open a pull request against this template repository.
 
 ---
 
